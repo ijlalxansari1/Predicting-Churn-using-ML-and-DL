@@ -1,0 +1,5 @@
+model,Verstraaten (test acc),This study (test acc),Δ
+Logistic Regression,0.622,0.663,0.041
+Decision Tree,0.64,0.636,-0.004
+Random Forest,0.655,0.682,0.027
+SVM,0.617,0.671,0.054
