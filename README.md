@@ -88,7 +88,7 @@ The project is structured as a reproducible data science pipeline using Python a
 * Pandas, NumPy
 * Matplotlib, Seaborn
 * Scikit-learn
-* TensorFlow / PyTorch (for LSTM)
+* TensorFlow / PyTorch (for LSTM and MLP)
 * XGBoost
 * JupyterLab / VS Code
 
@@ -155,9 +155,10 @@ A deep learning LSTM model was added to learn user session sequences over time. 
 | Feature Engineering    | ✅ Done         |
 | EDA                    | ✅ Done         |
 | Baseline Models        | ✅ Done         |
-| LSTM Model             | ⚙️ In Progress |
-| Ethical Write-Up       | ⚙️ Drafting    |
-| Final Submission       | ⏳ Upcoming     |
+| LSTM Model             | ✅ Done         
+| MLP Model              | ✅ Done         |
+| Ethical Write-Up       | ✅ Done         |
+| Final Submission       | ✅ Done         |
 
 ---
 
@@ -173,4 +174,5 @@ All third-party data remains property of the original creators (SLAM 2018 organi
 * SLAM 2018 Dataset Contributors
 * Faculty Supervisors and Reviewers
 * All open-source library maintainers
+
 
